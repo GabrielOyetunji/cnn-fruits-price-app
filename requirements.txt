@@ -1,0 +1,13 @@
+# --- Core app ---
+streamlit==1.37.0
+
+# --- ML stack (pins chosen to match Streamlit Cloud's Python) ---
+tensorflow==2.17.1
+numpy==1.26.4
+pillow==10.4.0
+matplotlib==3.8.4
+protobuf==4.25.3
+
+# Optional but nice to have for image handling
+# (comment out if you don't need them)
+# pandas==2.2.2
